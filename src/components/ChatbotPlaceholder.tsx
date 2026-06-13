@@ -1,0 +1,2 @@
+import {MessageCircle} from "lucide-react";
+export default function ChatbotPlaceholder(){return <button aria-label="Chatbot placeholder" className="fixed bottom-6 right-6 z-50 h-14 w-14 rounded-full bg-[var(--mnb-gold)] text-[var(--mnb-navy)] shadow-2xl grid place-items-center" title="Chatbot coming soon"><MessageCircle/></button>}
