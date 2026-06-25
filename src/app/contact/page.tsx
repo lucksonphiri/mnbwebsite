@@ -64,7 +64,7 @@ export default function Page() {
                 <p className="text-gray-600 mt-3">
                   Phone: +263 78 728 2897
                   <br />
-                  Email: admin@mnb.ac.zw
+                  Email: enquiries@mnb.ac.zw
                 </p>
               </div>
             </div>
