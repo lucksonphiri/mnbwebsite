@@ -128,7 +128,7 @@ export default function ChatbotPlaceholder() {
             </div>
 
             <p className="mt-2 text-xs text-gray-500">
-              For difficult questions, the bot will refer you to WhatsApp.
+              For Clarity, You will be referred you to WhatsApp Chat with Our Staff.
             </p>
           </div>
         </div>
