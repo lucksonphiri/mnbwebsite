@@ -123,7 +123,7 @@ export default function Page() {
 
         <div className="text-center py-8">
           <a
-            href="https://maps.app.goo.gl/CtgGXGdishgrGRar7"
+            href="https://www.google.com/maps?q=-17.983866583008638,30.147064224821185"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-[var(--mnb-navy)] text-white px-8 py-4 rounded-xl font-bold hover:opacity-90 transition"

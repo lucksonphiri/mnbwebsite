@@ -35,24 +35,7 @@ export default function Page()
                 <p className="mt-4 text-gray-600 text-lg leading-8">MNB College offers modern and well-supervised boarding facilities for both boys and girls. The hostels are managed by dedicated Boarding Masters, Matrons, and support staff who ensure the welfare, safety, and comfort of every student.</p>
 
                 <h2 className="section-title text-3xl">Boarding Life at MNB College</h2>
-                <p className="mt-4 text-gray-600 text-lg leading-8">At MNB College, boarding life is designed to provide a safe, disciplined, and nurturing environment that promotes academic excellence, personal growth, and character development. Our boarding facilities offer students a home away from home where they can focus on their studies while developing independence, responsibility, and lifelong friendships.</p><br></br>
-
-                <h2 className="section-title text-3xl">Boarding Life at MNB College</h2>
-                <p className="mt-4 text-gray-600 text-lg leading-8">At MNB College, boarding life is designed to provide a safe, disciplined, and nurturing environment that promotes academic excellence, personal growth, and character development. Our boarding facilities offer students a home away from home where they can focus on their studies while developing independence, responsibility, and lifelong friendships.</p><br></br>
-
-                <h2 className="section-title text-3xl">Boarding Life at MNB College</h2>
-                <p className="mt-4 text-gray-600 text-lg leading-8">At MNB College, boarding life is designed to provide a safe, disciplined, and nurturing environment that promotes academic excellence, personal growth, and character development. Our boarding facilities offer students a home away from home where they can focus on their studies while developing independence, responsibility, and lifelong friendships.</p><br></br>
-
-                <h2 className="section-title text-3xl">Boarding Life at MNB College</h2>
-                <p className="mt-4 text-gray-600 text-lg leading-8">At MNB College, boarding life is designed to provide a safe, disciplined, and nurturing environment that promotes academic excellence, personal growth, and character development. Our boarding facilities offer students a home away from home where they can focus on their studies while developing independence, responsibility, and lifelong friendships.</p><br></br>
-
-                <h2 className="section-title text-3xl">Boarding Life at MNB College</h2>
-                <p className="mt-4 text-gray-600 text-lg leading-8">At MNB College, boarding life is designed to provide a safe, disciplined, and nurturing environment that promotes academic excellence, personal growth, and character development. Our boarding facilities offer students a home away from home where they can focus on their studies while developing independence, responsibility, and lifelong friendships.</p><br></br>
-
-                <h2 className="section-title text-3xl">Boarding Life at MNB College</h2>
-                <p className="mt-4 text-gray-600 text-lg leading-8">At MNB College, boarding life is designed to provide a safe, disciplined, and nurturing environment that promotes academic excellence, personal growth, and character development. Our boarding facilities offer students a home away from home where they can focus on their studies while developing independence, responsibility, and lifelong friendships.</p><br></br>
-
-                
+                <p className="mt-4 text-gray-600 text-lg leading-8">At MNB College, boarding life is designed to provide a safe, disciplined, and nurturing environment that promotes academic excellence, personal growth, and character development. Our boarding facilities offer students a home away from home where they can focus on their studies while developing independence, responsibility, and lifelong friendships.</p><br></br>              
 
             <div className="mt-8 grid md:grid-cols-2 gap-5"><div className="p-6 rounded-2xl bg-[var(--mnb-light)]"><h3 className="font-black text-[var(--mnb-navy)]">Key Information</h3><p className="text-gray-600 mt-2">This page is ready for official MNB College content, images and downloadable documents.</p></div><div className="p-6 rounded-2xl bg-[var(--mnb-light)]"><h3 className="font-black text-[var(--mnb-navy)]">Need Help?</h3><p className="text-gray-600 mt-2">Contact admissions or administration for further guidance.</p></div>
             </div>
