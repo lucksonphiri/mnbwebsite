@@ -11,7 +11,7 @@ export const navItems=[
 
 {label:"Student Life",href:"/student-life",children:[{label:"Student Life",href:"/student-life"},{label:"Sports",href:"/student-life/sports"},{label:"Clubs",href:"/student-life/clubs"},{label:"Library",href:"/student-life/library"},{label:"Accommodation",href:"/student-life/accommodation"},{label:"Guidance & Counselling",href:"/student-life/guidance-counselling"}]},
 
-{label:"Downloads",href:"/downloads",children:[{label:"Downloads",href:"/downloads"},{label:"Prospectus",href:"/downloads/prospectus"},{label:"Application Forms",href:"/downloads/application-forms"},{label:"Academic Calendar",href:"/downloads/calendars"}]},
+{label:"Downloads",href:"/downloads",children:[{label:"Downloads",href:"/downloads"},{label:"Prospectus",href:"/downloads/prospectus"},{label:"Academic Calendar",href:"/downloads/calendars"}]},
 
 {label:"News",href:"/news"},
 
