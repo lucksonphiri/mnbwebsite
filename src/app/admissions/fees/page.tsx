@@ -163,20 +163,6 @@ export default function Page() {
               </p>
             </div>
 
-
-            {/* <div className="mt-8 flex flex-wrap gap-4">
-
-  <a
-    href="/documents/fees_structure.pdf"
-    download
-    className="inline-flex items-center gap-3 bg-[var(--mnb-gold)] text-[var(--mnb-navy)] font-bold px-8 py-4 rounded-xl hover:scale-105 transition shadow-lg"
-  >
-    <Download size={22} />
-    Download 2027 Fees Structure (PDF)
-  </a>
-
-</div> */}
-
 <div className="mt-10 rounded-3xl bg-[var(--mnb-navy)] text-white p-8 shadow-xl">
 
     <h3 className="text-2xl font-black">
