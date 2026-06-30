@@ -164,7 +164,7 @@ export default function Page() {
             </div>
 
 
-            <div className="mt-8 flex flex-wrap gap-4">
+            {/* <div className="mt-8 flex flex-wrap gap-4">
 
   <a
     href="/documents/fees_structure.pdf"
@@ -175,7 +175,32 @@ export default function Page() {
     Download 2027 Fees Structure (PDF)
   </a>
 
+</div> */}
+
+<div className="mt-10 rounded-3xl bg-[var(--mnb-navy)] text-white p-8 shadow-xl">
+
+    <h3 className="text-2xl font-black">
+        Download the Official 2027 Fees Catalogue
+    </h3>
+
+    <p className="mt-3 text-blue-100">
+        Click the button below to download the official MNB College
+        2027 Fees Structure in PDF format.
+    </p>
+
+    <a
+        href="/documents/fees-structure-2027.pdf"
+        download
+        className="mt-6 inline-flex items-center gap-3 rounded-xl bg-[var(--mnb-gold)] px-8 py-4 font-bold text-[var(--mnb-navy)] hover:scale-105 transition"
+    >
+        <Download size={22}/>
+        Download PDF
+    </a>
+
 </div>
+
+
+
           </div>
 
 
