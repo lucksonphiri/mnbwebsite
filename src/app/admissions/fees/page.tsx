@@ -1,5 +1,5 @@
 import Link from "next/link";
-
+import { Download } from "lucide-react";
 const newStudents = [
   ["Uniforms", "385"],
   ["Development Levy", "500"],
@@ -162,7 +162,26 @@ export default function Page() {
                 with the Admissions and Finance Office before making payments.
               </p>
             </div>
+
+
+            <div className="mt-8 flex flex-wrap gap-4">
+
+  <a
+    href="/documents/fees_structure.pdf"
+    download
+    className="inline-flex items-center gap-3 bg-[var(--mnb-gold)] text-[var(--mnb-navy)] font-bold px-8 py-4 rounded-xl hover:scale-105 transition shadow-lg"
+  >
+    <Download size={22} />
+    Download 2027 Fees Structure (PDF)
+  </a>
+
+</div>
           </div>
+
+
+                  
+
+
 
           <aside className="bg-white rounded-3xl p-7 h-fit shadow-sm">
             <h3 className="font-black text-xl text-[var(--mnb-navy)]">
@@ -199,7 +218,7 @@ export default function Page() {
                 details.
               </p>
               <p className="mt-4 font-bold">+263 78 728 2897</p>
-              <p className="text-sm">admin@mnb.ac.zw</p>
+              <p className="text-sm">enquiries@mnb.ac.zw</p>
             </div>
           </aside>
         </div>
